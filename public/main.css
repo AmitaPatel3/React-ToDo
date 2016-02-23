@@ -1,0 +1,18 @@
+.my-container {
+  border: 3px solid black;
+}
+
+body {
+  background: grey;
+}
+
+.my-header {
+  background: orange;
+}
+
+.my-panel {
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-left: auto;
+  padding-right: auto;
+}
